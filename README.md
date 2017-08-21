@@ -54,4 +54,23 @@
     
 # Citations
   If you use the ASRC dataset in your work, please cite it as:
-  //TODO
+
+      @inproceedings{DBLP:conf/sigir/RaiferRTK17,
+      author    = {Nimrod Raifer and
+                   Fiana Raiber and
+                   Moshe Tennenholtz and
+                   Oren Kurland},
+      title     = {Information Retrieval Meets Game Theory: The Ranking Competition Between
+                   Documents? Authors},
+      booktitle = {Proceedings of the 40th International {ACM} {SIGIR} Conference on
+                   Research and Development in Information Retrieval, Shinjuku, Tokyo,
+                   Japan, August 7-11, 2017},
+      pages     = {465--474},
+      year      = {2017},
+      crossref  = {DBLP:conf/sigir/2017},
+      url       = {http://doi.acm.org/10.1145/3077136.3080785},
+      doi       = {10.1145/3077136.3080785},
+      timestamp = {Sun, 06 Aug 2017 18:21:32 +0200},
+      biburl    = {http://dblp.uni-trier.de/rec/bib/conf/sigir/RaiferRTK17},
+      bibsource = {dblp computer science bibliography, http://dblp.org}
+    }
