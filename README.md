@@ -1,4 +1,5 @@
-# ASRC2017 - Will be publicly available a week before SIGIR2017 conference.
+
+# ASRC2017 - Contact me to get the data.
   Adversarial Search Collection 2017. 
   Information Retrieval Meets Game Theory: The Ranking Competition Between Documents' Authors.
 
