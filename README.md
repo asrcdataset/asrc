@@ -1,5 +1,5 @@
 
-# ASRC2017 - Contact me to get the data.
+# ASRC2017
   Adversarial Search Collection 2017. 
   Information Retrieval Meets Game Theory: The Ranking Competition Between Documents' Authors.
 
